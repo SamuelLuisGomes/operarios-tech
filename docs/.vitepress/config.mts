@@ -4,7 +4,8 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Operários Tech",
   description: "Base de conhecimento sobre Hardware, Software e demais conhecimentos da área Tech",
-  base: '/samuelluisgomes.github.io/operarios-tech/',
+  // base: '/samuelluisgomes.github.io/operarios-tech/',
+  base: '/operarios-tech/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
